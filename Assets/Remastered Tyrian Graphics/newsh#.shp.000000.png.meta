@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: abd6933b3d075224294752439120a458
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: newsh#.shp.000000_0
+    21300002: newsh#.shp.000000_1
+    21300004: newsh#.shp.000000_2
+    21300006: newsh#.shp.000000_3
+    21300008: newsh#.shp.000000_4
+    21300010: newsh#.shp.000000_5
+    21300012: newsh#.shp.000000_6
+    21300014: newsh#.shp.000000_7
+    21300016: newsh#.shp.000000_8
+    21300018: newsh#.shp.000000_9
+    21300020: newsh#.shp.000000_10
+    21300022: newsh#.shp.000000_11
+    21300024: newsh#.shp.000000_12
+    21300026: newsh#.shp.000000_13
+    21300028: newsh#.shp.000000_14
+    21300030: newsh#.shp.000000_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: newsh#.shp.000000_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 169
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 169
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 169
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 114
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 114
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 114
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 59
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 59
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 59
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newsh#.shp.000000_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
